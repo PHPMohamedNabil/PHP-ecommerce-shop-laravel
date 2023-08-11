@@ -1,0 +1,16 @@
+ @font-face 
+ {
+    font-family:Cairo;
+    src: url("Cairo/Cairo-Bold.ttf");
+ }
+
+ *{
+ 	 font-family:Cairo;
+ 	 direction: rtl;
+ }
+
+ /*, *::after, *::before {
+  -webkit-user-select: none;
+  -webkit-user-drag: none;
+  -webkit-app-region: no-drag;
+}*/
